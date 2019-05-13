@@ -1,0 +1,2 @@
+zip -qr backup.zip ~/
+echo "Backup realizado com sucesso"
