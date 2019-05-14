@@ -1,0 +1,2 @@
+ps -e | wc -l
+echo "Para tornar esse arquivo executável modifique as permissões e crie uma variável de ambiente"
